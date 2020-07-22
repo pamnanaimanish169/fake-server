@@ -26,4 +26,12 @@
         }]
     }
   ]
+},
+
+{
+  "state" : [
+    "id" : 2,
+    "name" : "Rajasthan",
+    "countryId" : 1
+  ]
 }
