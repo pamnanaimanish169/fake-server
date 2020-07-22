@@ -1,11 +1,9 @@
 
 {
-  "contactUs": [
+  "country": [
     {
-      "fname" : "Manish",
-      "lname" : "Pamnani",
-      "country" : "India",
-      "subject" : "Hello, I am interested in your Product"
+      "id" : 1,
+      "name" : "India"
     }
   ]
 }
