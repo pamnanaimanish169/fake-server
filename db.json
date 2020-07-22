@@ -3,7 +3,19 @@
   "country": [
     {
       "id" : 1,
-      "name" : "India"
+      "name" : "India",
+      "state" : [
+        {
+          "id" : 2,
+          "name" : "Rajasthan",
+          "city" : [
+            {
+              "name" : "Jaipur",
+              id : 3
+            }
+          ]
+        }
+      ]
     }
   ]
 }
