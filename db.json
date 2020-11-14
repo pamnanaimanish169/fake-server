@@ -1,6 +1,9 @@
-
 {
-  "userId" : 1,
-  "firstName" : "Manish",
-  "lastName" : "Pamnani"
+  "user" : [
+    {
+      "id" : 1,
+      "fName"  : "Manish",
+      "lName" : "Pamnani"
+    }
+  ]
 }
